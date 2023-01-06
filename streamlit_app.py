@@ -115,7 +115,6 @@ if st.button('Enviar'):
         st.write('APA: ' + get_bibliography_apa(article))
         st.write('MLA: ' + get_bibliography_mla(article))
         st.write('IEEE: ' + get_bibliography_ieee(article))
-
 #hacer un pie de pagina desplegable
 with st.expander('Acerca de'):
     st.write('¡En un mundo cada vez más lleno de confusión y desinformación, es más importante que nunca tener acceso a información de calidad y confiable! Pero a menudo, los grandes medios de comunicación y las agencias de noticias ponen obstáculos en forma de muros de pago para acceder a la información que necesitamos. Es por eso que hemos creado esta herramienta, para brindar una solución a esta problemática y garantizar que universitarios, investigadores y personas en general tengan acceso a la información relevante de forma gratuita. ¡Con esta herramienta, podemos luchar contra la desinformación y abrir nuevas puertas de conocimiento y oportunidades para todos!')
