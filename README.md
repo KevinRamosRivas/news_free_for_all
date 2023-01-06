@@ -8,11 +8,11 @@ https://kevinramosrivas-news-free-for-all-streamlit-app-b7vrd7.streamlit.app/
 
 <div width="100%" height="100%">
   Link de la pagina a extraer la información
-  <img src="img0.png" width="" height="200">
+  <img src="img0.png"  width: "100%" height: "auto">
 
   Información extraida
-  <img src="img1.png" width="200" height="200">
+  <img src="img1.png" width: "100%" height: "auto">
 
   Citas automáticas generadas
-  <img src="img2.png" width="200" height="200">
+  <img src="img2.png" width: "100%" height: "auto">
 </div>
