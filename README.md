@@ -3,3 +3,7 @@ Una pequeña web app realizada con python y streamlit que permite saltarse los m
 
 #Link de la aplicación
 https://kevinramosrivas-news-free-for-all-streamlit-app-b7vrd7.streamlit.app/
+
+#Capturas de la webapp
+
+<img src="img0">
