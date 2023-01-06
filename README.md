@@ -6,7 +6,7 @@ https://kevinramosrivas-news-free-for-all-streamlit-app-b7vrd7.streamlit.app/
 
 # Capturas de la webapp
 
-<div width="50%" height="100%">
+<div style="padding: 20%">
   Link de la pagina a extraer la información
   <img src="img0.png"  style="width: 100%; height: auto">
 
