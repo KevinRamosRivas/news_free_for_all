@@ -6,13 +6,13 @@ https://kevinramosrivas-news-free-for-all-streamlit-app-b7vrd7.streamlit.app/
 
 # Capturas de la webapp
 
-<div style="padding: 20%">
-  Link de la pagina a extraer la información
+<div style="display:flex;align-items: center; justify-content: center;">
+  ### Link de la pagina a extraer la información
   <img src="img0.png"  style="width: 30%; height: auto">
 
-  Información extraida
+  ### Información extraida
   <img src="img1.png" style="width: 30%; height: auto">
 
-  Citas automáticas generadas
+  ###Citas automáticas generadas
   <img src="img2.png" style="width: 30%; height: auto">
 </div>
